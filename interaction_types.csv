@@ -1,5 +1,5 @@
 observation_field_name,observation_field_id,interaction_type_label,interaction_type_id
-Eating,INATFIELD:13,eats,RO:0002470
-Feeding on,INATFIELD:1685,eats,RO:0002470
-Mariposas que alimenta,INATFIELD:343,eats,RO:0002470
-With the prey,INATFIELD:839,preys on,RO:0002439
+Eating,13,eats,RO:0002470
+Feeding on,1685,eats,RO:0002470
+Mariposas que alimenta,343,eats,RO:0002470
+With the prey,839,preys on,RO:0002439
