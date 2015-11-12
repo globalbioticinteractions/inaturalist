@@ -3,3 +3,75 @@ Eating,13,eats,RO:0002470
 Feeding on,1685,eats,RO:0002470
 Mariposas que alimenta,343,eats,RO:0002470
 With the prey,839,preys on,RO:0002439
+Interaction: Preyed upon,,preys on,RO:0002439
+Interaction: Ate fruit of,,eats,RO:0002470
+Interaction: Herbivore of,,eats,RO:0002470
+Interaction: Infected by,,pathogen of,RO:0002556
+Predating,,preys on,RO:0002439
+Depredando,,preys on,RO:0002439
+Alimentándose,,eats,RO:0002470
+Food Source,,eats,RO:0002470
+Interaction: Fruit eaten by,,eats,RO:0002470
+Host,,has host,RO:0002454
+Host plant NZ,,has host,RO:0002454
+host species with names lookup,,has host,RO:0002454
+parasitic fungus on hoast with names lookup,,has parasite,RO:0002445
+Hospedero,,has parasite,RO:0002445
+host to parasitic fungus,,parasite of,RO:0002444
+Host animal,,has host,RO:0002454
+Interaction: Visited flower of,,visits flowers of,EOLT:VisitsFlowersOf
+Flower species,,pollinates,RO:0002455
+Euphorbia pulcherrima,,pollinates,RO:0002455
+Perching on,,perching on,
+Pollinating,,pollinates,RO:0002455
+Other Species in Group,,interacts with,RO:0002437
+associated species NZ,,interacts with,RO:0002437
+Associated With,,interacts with,RO:0002437
+Milkweed species,,interacts with,RO:0002437
+second associated species,,interacts with,RO:0002437
+associated species alien to NZ,,interacts with,RO:0002437
+Associated species with names lookup,,interacts with,RO:0002437
+2nd associated organism with names lookup,,interacts with,RO:0002437
+Other other species in group,,interacts with,RO:0002437
+Pollinating,,pollinates,RO:0002455
+Butterfly & Moth Host Plant,,has host,RO:0002454
+Butterfly & Moth Nectar Plant,,has host,RO:0002454
+honey bee food plant,,has host,RO:0002454
+Drinking nectar from,,has host,RO:0002454
+Gall Inducer,,interacts with,RO:0002437
+Forms gall on,,interacts with,RO:0002437
+Insect Nectar Plant,,interacts with,RO:0002437
+specified substrate of fungus,,interacts with,RO:0002437
+Insect Host Plant,,has host,RO:0002454
+Hunting,,preys on,RO:0002439
+Predated by,,preyed on by,RO:0002458
+Is Host For,,host of,RO:0002453
+Being parasitized by,,has parasite,RO:0002445
+Parasitando a,,parasite of,RO:0002444
+Interaction: Nested in,,interacts with,RO:0002437
+Interaction: Nested in,,interacts with,RO:0002437
+Interaction: Decomposer of,,interacts with,RO:0002437
+Interaction: Parasite/parasitoid of,,parasite of,RO:0002444
+Interaction: Flower visited by,,flowers visited by,EOLT:FlowersVisitedBy
+Interaction: Preyed upon by,,preyed on by,RO:0002458
+Interaction: egg(s) laid on/in,,parasite of,RO:0002444
+Interaction: Herbivory by,,eaten by,RO:0002471
+Interaction: Carcass scavenged by,,eaten by,RO:0002471
+Kleptoparasite Host,,has kleptoparasite,
+Kleptoparasite Forage,,eats,RO:0002470
+Polinizando,,pollinates,RO:0002455
+Especie visitada,,visits flowers of,EOLT:VisitsFlowersOf
+Interacciones,,visits flowers of,EOLT:VisitsFlowersOf
+Interaction: Ate seed of,,eats,RO:0002470
+Interaction: Parasitised by,,has parasite,RO:0002445
+Interaction: Egg(s) laid on/in,,interacts with,RO:0002437
+Prey Speicies,,preys on,RO:0002439
+Interaction: Pathogen of,,pathogen of,RO:0002556
+Prey ID,,preys on,RO:0002439
+Parasitado por,,has parasite,RO:0002445
+Observado sobre,,interacts with,RO:0002437
+Eaten by,,eaten by,RO:0002471
+Hunted by,,preyed on by,RO:0002458
+Associated parasitic / pathogenic organism with names lookup,,has parasite,RO:0002445
+first nectar or pollen feeding insect,,pollinated by,RO:0002456
+second nectar or pollen feeding insect,,pollinated by,RO:0002456
