@@ -1,14 +1,14 @@
 observation_field_name,observation_field_id
-Syntopic,
-Syntop,
-Target species,
-Iconic taxon name,
-Tree species,
-"associated fern plant, pteridophyte",
-Order,
-Class,
-Phylum,
-Unidentified,
-Animal observed,
-Interaction: Defended territory from,
-Mobbing,
+Syntopic,http://www.inaturalist.org/observation_fields/1378
+Syntop,http://www.inaturalist.org/observation_fields/1340
+Target species,http://www.inaturalist.org/observation_fields/1185
+Iconic taxon name,http://www.inaturalist.org/observation_fields/1898
+Tree species,http://www.inaturalist.org/observation_fields/614
+"associated fern plant, pteridophyte",http://www.inaturalist.org/observation_fields/2400
+Order,http://www.inaturalist.org/observation_fields/1434
+Class,http://www.inaturalist.org/observation_fields/1433
+Phylum,http://www.inaturalist.org/observation_fields/1432
+Unidentified,http://www.inaturalist.org/observation_fields/2448
+Animal observed,http://www.inaturalist.org/observation_fields/2366
+Interaction: Defended territory from,http://www.inaturalist.org/observation_fields/3495
+Mobbing,www.inaturalist.org/observation_fields/3530
