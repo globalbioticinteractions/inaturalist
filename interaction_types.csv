@@ -19,7 +19,7 @@ Hospedero,http://www.inaturalist.org/observation_fields/834,has parasite,http://
 host to parasitic fungus,http://www.inaturalist.org/observation_fields/2297,parasite of,http://purl.obolibrary.org/obo/RO_0002444
 Host animal,http://www.inaturalist.org/observation_fields/1717,has host,http://purl.obolibrary.org/obo/RO_0002454
 Interaction: Visited flower of,http://www.inaturalist.org/observation_fields/3126,visits flowers of,http://eol.org/schema/terms/VisitsFlowersOf
-Euphorbia pulcherrima,http://www.inaturalist.org/observation_fields/33,pollinates,http://purl.obolibrary.org/obo/RO_0002455
+pollinates,http://www.inaturalist.org/observation_fields/33,pollinates,http://purl.obolibrary.org/obo/RO_0002455
 Perching on,http://www.inaturalist.org/observation_fields/115,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Pollinating,http://www.inaturalist.org/observation_fields/246,pollinates,http://purl.obolibrary.org/obo/RO_0002455
 Other Species in Group,http://www.inaturalist.org/observation_fields/107,interacts with,http://purl.obolibrary.org/obo/RO_0002437
