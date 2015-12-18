@@ -69,3 +69,4 @@ second associated species,http://www.inaturalist.org/observation_fields/1894,int
 second nectar or pollen feeding insect,http://www.inaturalist.org/observation_fields/2055,pollinated by,http://purl.obolibrary.org/obo/RO_0002456
 specified substrate of fungus,http://www.inaturalist.org/observation_fields/2403,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 With the prey,http://www.inaturalist.org/observation_fields/839,preys on,http://purl.obolibrary.org/obo/RO_0002439
+Related Taxa,http://www.inaturalist.org/observation_fields/3799,interacts with,http://purl.obolibrary.org/obo/RO_0002437
