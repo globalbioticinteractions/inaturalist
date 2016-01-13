@@ -73,3 +73,4 @@ Related Taxa,http://www.inaturalist.org/observation_fields/3799,interacts with,h
 Interaction: Scavenged carcass of,http://www.inaturalist.org/observation_fields/3146,eats,http://purl.obolibrary.org/obo/RO_0002470
 In Tree,http://www.inaturalist.org/observation_fields/3848,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Birds Nesting in,http://www.inaturalist.org/observation_fields/3845,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Parasite Host,http://www.inaturalist.org/observation_fields/3829,parasite of,http://purl.obolibrary.org/obo/RO_0002444
