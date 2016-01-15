@@ -9,7 +9,7 @@ Depredando,http://www.inaturalist.org/observation_fields/2976,preys on,http://pu
 Drinking nectar from,http://www.inaturalist.org/observation_fields/876,has host,http://purl.obolibrary.org/obo/RO_0002454
 Eaten by,http://www.inaturalist.org/observation_fields/879,eaten by,http://purl.obolibrary.org/obo/RO_0002471
 Eating,http://www.inaturalist.org/observation_fields/13,eats,http://purl.obolibrary.org/obo/RO_0002470
-Especie visitada,http://www.inaturalist.org/observation_fields/3465,visits flowers of,http://eol.org/schema/terms/VisitsFlowersOf
+Especie visitada,http://www.inaturalist.org/observation_fields/3465,visits flowers of,http://purl.obolibrary.org/obo/RO_0002623
 Feeding on,http://www.inaturalist.org/observation_fields/1685,eats,http://purl.obolibrary.org/obo/RO_0002470
 first nectar or pollen feeding insect,http://www.inaturalist.org/observation_fields/2054,pollinated by,http://purl.obolibrary.org/obo/RO_0002456
 Food Source,http://www.inaturalist.org/observation_fields/2294,eats,http://purl.obolibrary.org/obo/RO_0002470
@@ -33,7 +33,7 @@ Interaction: Carcass scavenged by,http://www.inaturalist.org/observation_fields/
 Interaction: Decomposer of,http://www.inaturalist.org/observation_fields/3143,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Interaction: Egg(s) laid on/in,http://www.inaturalist.org/observation_fields/3314,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Interaction: egg(s) laid on/in,http://www.inaturalist.org/observation_fields/3314,parasite of,http://purl.obolibrary.org/obo/RO_0002444
-Interaction: Flower visited by,http://www.inaturalist.org/observation_fields/3125,flowers visited by,http://eol.org/schema/terms/FlowersVisitedBy
+Interaction: Flower visited by,http://www.inaturalist.org/observation_fields/3125,flowers visited by,http://purl.obolibrary.org/obo/RO_0002622
 Interaction: Fruit eaten by,http://www.inaturalist.org/observation_fields/3127,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction: Herbivore of,http://www.inaturalist.org/observation_fields/3136,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction: Herbivory by,http://www.inaturalist.org/observation_fields/3135,eaten by,http://purl.obolibrary.org/obo/RO_0002471
@@ -44,7 +44,7 @@ Interaction: Parasitised by,http://www.inaturalist.org/observation_fields/3138,h
 Interaction: Pathogen of,http://www.inaturalist.org/observation_fields/3140,pathogen of,http://purl.obolibrary.org/obo/RO_0002556
 Interaction: Preyed upon by,http://www.inaturalist.org/observation_fields/3133,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
 Interaction: Preyed upon,http://www.inaturalist.org/observation_fields/3134,preys on,http://purl.obolibrary.org/obo/RO_0002439
-Interaction: Visited flower of,http://www.inaturalist.org/observation_fields/3126,visits flowers of,http://eol.org/schema/terms/VisitsFlowersOf
+Interaction: Visited flower of,http://www.inaturalist.org/observation_fields/3126,visits flowers of,http://purl.obolibrary.org/obo/RO_0002623
 Is Host For,http://www.inaturalist.org/observation_fields/2660,host of,http://purl.obolibrary.org/obo/RO_0002453
 Kleptoparasite Forage,http://www.inaturalist.org/observation_fields/3319,eats,http://purl.obolibrary.org/obo/RO_0002470
 Kleptoparasite Host,http://www.inaturalist.org/observation_fields/3318,interacts with,http://purl.obolibrary.org/obo/RO_0002437
@@ -58,7 +58,7 @@ Parasitando a,http://www.inaturalist.org/observation_fields/3010,parasite of,htt
 parasitic fungus on hoast with names lookup,http://www.inaturalist.org/observation_fields/2296,has parasite,http://purl.obolibrary.org/obo/RO_0002445
 Perching on,http://www.inaturalist.org/observation_fields/115,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Polinizando,http://www.inaturalist.org/observation_fields/3426,pollinates,http://purl.obolibrary.org/obo/RO_0002455
-pollinates,http://www.inaturalist.org/observation_fields/33,visits flowers of,http://eol.org/schema/terms/VisitsFlowersOf
+pollinates,http://www.inaturalist.org/observation_fields/33,visits flowers of,http://purl.obolibrary.org/obo/RO_0002623
 Pollinating,http://www.inaturalist.org/observation_fields/246,pollinates,http://purl.obolibrary.org/obo/RO_0002455
 Pollinating,http://www.inaturalist.org/observation_fields/246,pollinates,http://purl.obolibrary.org/obo/RO_0002455
 Predated by,http://www.inaturalist.org/observation_fields/2254,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
