@@ -26,7 +26,7 @@ Hunted by,http://www.inaturalist.org/observation_fields/1542,preyed on by,http:/
 Hunting,http://www.inaturalist.org/observation_fields/1543,preys on,http://purl.obolibrary.org/obo/RO_0002439
 Insect Host Plant,http://www.inaturalist.org/observation_fields/499,has host,http://purl.obolibrary.org/obo/RO_0002454
 Insect Nectar Plant,http://www.inaturalist.org/observation_fields/498,interacts with,http://purl.obolibrary.org/obo/RO_0002437
-Interacciones,http://www.inaturalist.org/observation_fields/2901,visits flowers of,http://eol.org/schema/terms/VisitsFlowersOf
+Interacciones,http://www.inaturalist.org/observation_fields/2901,visits flowers of,http://purl.obolibrary.org/obo/RO_0002623
 Interaction: Ate fruit of,http://www.inaturalist.org/observation_fields/3128,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction: Ate seed of,http://www.inaturalist.org/observation_fields/3131,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction: Carcass scavenged by,http://www.inaturalist.org/observation_fields/3145,eaten by,http://purl.obolibrary.org/obo/RO_0002471
