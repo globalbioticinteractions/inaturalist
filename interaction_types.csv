@@ -25,7 +25,7 @@ Host,http://www.inaturalist.org/observation_fields/47,has host,http://purl.oboli
 Hunted by,http://www.inaturalist.org/observation_fields/1542,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
 Hunting,http://www.inaturalist.org/observation_fields/1543,preys on,http://purl.obolibrary.org/obo/RO_0002439
 Insect Host Plant,http://www.inaturalist.org/observation_fields/499,has host,http://purl.obolibrary.org/obo/RO_0002454
-Insect Nectar Plant,http://www.inaturalist.org/observation_fields/498,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Insect Nectar Plant,http://www.inaturalist.org/observation_fields/498,visits flowers of,http://purl.obolibrary.org/obo/RO_0002623
 Interacciones,http://www.inaturalist.org/observation_fields/2901,visits flowers of,http://purl.obolibrary.org/obo/RO_0002623
 Interaction: Ate fruit of,http://www.inaturalist.org/observation_fields/3128,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction: Ate seed of,http://www.inaturalist.org/observation_fields/3131,eats,http://purl.obolibrary.org/obo/RO_0002470
