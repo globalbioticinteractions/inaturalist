@@ -79,3 +79,4 @@ Interaction: Hemiparasite of,http://www.inaturalist.org/observation_fields/4145,
 Interaction: Parasitoid of,http://www.inaturalist.org/observation_fields/4146,parasitoid of,http://purl.obolibrary.org/obo/RO_0002208
 Interaction: Used as nest by,http://www.inaturalist.org/observation_fields/3142,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Name of predator species,http://www.inaturalist.org/observation_fields/2924,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
+Depredado por:,http://www.inaturalist.org/observation_fields/3456,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
