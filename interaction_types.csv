@@ -87,5 +87,7 @@ Food:,http://www.inaturalist.org/observation_fields/4952,eats,http://purl.obolib
 Observed Species Association:Pollination,http://www.inaturalist.org/observation_fields/4980,pollinated by,http://purl.obolibrary.org/obo/RO_0002456
 Observed Species Association:Pollination 2,http://www.inaturalist.org/observation_fields/4981,pollinated by,http://purl.obolibrary.org/obo/RO_0002456
 Plant species observed,http://www.inaturalist.org/observation_fields/2544,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Observed Species Association: Cohabitation,http://www.inaturalist.org/observation_fields/4955,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Food 1:,http://www.inaturalist.org/observation_fields/4994,eats,http://purl.obolibrary.org/obo/RO_0002470
 Observed Species Association: Found upon,http://www.inaturalist.org/observation_fields/4961,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Nectar / Pollen delivering plant,http://www.inaturalist.org/observation_fields/4935,eats,http://purl.obolibrary.org/obo/RO_0002470
