@@ -82,3 +82,10 @@ Name of predator species,http://www.inaturalist.org/observation_fields/2924,prey
 Depredado por:,http://www.inaturalist.org/observation_fields/3456,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
 Growing On Organism,http://www.inaturalist.org/observation_fields/3844,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Ant attending,http://www.inaturalist.org/observation_fields/4850,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Food 2:,http://www.inaturalist.org/observation_fields/4995,eats,http://purl.obolibrary.org/obo/RO_0002470
+Food:,http://www.inaturalist.org/observation_fields/4952,eats,http://purl.obolibrary.org/obo/RO_0002470
+Observed Species Association:Pollination,http://www.inaturalist.org/observation_fields/4980,pollinated by,http://purl.obolibrary.org/obo/RO_0002456
+Observed Species Association:Pollination 2,http://www.inaturalist.org/observation_fields/4981,pollinated by,http://purl.obolibrary.org/obo/RO_0002456
+Plant species observed,http://www.inaturalist.org/observation_fields/2544,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Observed Species Association: Found upon,http://www.inaturalist.org/observation_fields/4961,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Nectar / Pollen delivering plant,http://www.inaturalist.org/observation_fields/4935,eats,http://purl.obolibrary.org/obo/RO_0002470
