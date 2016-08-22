@@ -34,7 +34,7 @@ Interaction: Decomposer of,http://www.inaturalist.org/observation_fields/3143,in
 Interaction: Egg(s) laid on/in,http://www.inaturalist.org/observation_fields/3314,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Interaction: egg(s) laid on/in,http://www.inaturalist.org/observation_fields/3314,parasite of,http://purl.obolibrary.org/obo/RO_0002444
 Interaction: Flower visited by,http://www.inaturalist.org/observation_fields/3125,flowers visited by,http://purl.obolibrary.org/obo/RO_0002622
-Interaction: Fruit eaten by,http://www.inaturalist.org/observation_fields/3127,eats,http://purl.obolibrary.org/obo/RO_0002470
+Interaction: Fruit eaten by,http://www.inaturalist.org/observation_fields/3127,eaten by,http://purl.obolibrary.org/obo/RO_0002471
 Interaction: Herbivore of,http://www.inaturalist.org/observation_fields/3136,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction: Herbivory by,http://www.inaturalist.org/observation_fields/3135,eaten by,http://purl.obolibrary.org/obo/RO_0002471
 Interaction: Infected by,http://www.inaturalist.org/observation_fields/3139,pathogen of,http://purl.obolibrary.org/obo/RO_0002556
