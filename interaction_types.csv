@@ -95,3 +95,6 @@ Observed Species Association: Found upon 3,http://www.inaturalist.org/observatio
 Nectar / Pollen delivering plant,http://www.inaturalist.org/observation_fields/4935,eats,http://purl.obolibrary.org/obo/RO_0002470
 Fungivore of,http://www.inaturalist.org/observation_fields/3956,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction: Dispersed seed of,http://www.inaturalist.org/observation_fields/3129,vector of,http://purl.obolibrary.org/obo/RO_0002459
+predated by,http://www.inaturalist.org/observation_fields/5226,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
+aggressor,http://www.inaturalist.org/observation_fields/5222,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Attacking,http://www.inaturalist.org/observation_fields/3549,interacts with,http://purl.obolibrary.org/obo/RO_0002437
