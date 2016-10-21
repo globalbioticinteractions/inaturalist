@@ -105,3 +105,5 @@ Shell used,http://www.inaturalist.org/observation_fields/5371,interacts with,htt
 Observed Species Association: Parasitism,http://www.inaturalist.org/observation_fields/5286,parasite of,http://purl.obolibrary.org/obo/RO_0002444
 Observed Species Association: Predating,http://www.inaturalist.org/observation_fields/5396,preys on,http://purl.obolibrary.org/obo/RO_0002439
 Interaction: Visited plant of,http://www.inaturalist.org/observation_fields/5432,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Flowers visited by,http://www.inaturalist.org/observation_fields/5530,flowers visited by,http://purl.obolibrary.org/obo/RO_0002622
+Interaction: Seed eaten by,http://www.inaturalist.org/observation_fields/3132,eaten by,http://purl.obolibrary.org/obo/RO_0002471
