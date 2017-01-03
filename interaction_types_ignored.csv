@@ -1,41 +1,41 @@
 observation_field_name,observation_field_id
-Syntopic,http://www.inaturalist.org/observation_fields/1378
-Syntop,http://www.inaturalist.org/observation_fields/1340
-Target species,http://www.inaturalist.org/observation_fields/1185
-Iconic taxon name,http://www.inaturalist.org/observation_fields/1898
-Tree species,http://www.inaturalist.org/observation_fields/614
-"associated fern plant, pteridophyte",http://www.inaturalist.org/observation_fields/2400
-Order,http://www.inaturalist.org/observation_fields/1434
-Class,http://www.inaturalist.org/observation_fields/1433
-Phylum,http://www.inaturalist.org/observation_fields/1432
-Unidentified,http://www.inaturalist.org/observation_fields/2448
-Animal observed,http://www.inaturalist.org/observation_fields/2366
-Interaction: Defended territory from,http://www.inaturalist.org/observation_fields/3495
-Mobbing,http://www.inaturalist.org/observation_fields/3530
-MARIPOSAS,http://www.inaturalist.org/observation_fields/341
-Mariposas,http://www.inaturalist.org/observation_fields/631
-Observado junto a:,http://www.inaturalist.org/observation_fields/3679
-Additionally Related Taxa,http://www.inaturalist.org/observation_fields/3847
-Also Related Taxa,http://www.inaturalist.org/observation_fields/3846
-Community ecology,http://www.inaturalist.org/observation_fields/3884
-On Tree (Bird),http://www.inaturalist.org/observation_fields/3870
-Community ecology sp.2,http://www.inaturalist.org/observation_fields/3894
-chased by,http://www.inaturalist.org/observation_fields/3931
-chasing,http://www.inaturalist.org/observation_fields/3930
-Community ecology sp.3,http://www.inaturalist.org/observation_fields/3895
-Type of pollinator observed,http://www.inaturalist.org/observation_fields/2543
-Orquídea,http://www.inaturalist.org/observation_fields/3513
-Orchidaceae,http://www.inaturalist.org/observation_fields/3514
-Interaction: Competition with,http://www.inaturalist.org/observation_fields/4133
-Interaction: Hunting,http://www.inaturalist.org/observation_fields/4186
-Interaction: Damaged by,http://www.inaturalist.org/observation_fields/4144
-third associated species with names lookup,http://www.inaturalist.org/observation_fields/4309
-Community ecology sp.4,http://www.inaturalist.org/observation_fields/4258
-Community ecology sp.5,http://www.inaturalist.org/observation_fields/4259
-Especies afectadas,http://www.inaturalist.org/observation_fields/2056
-Abbas Karouni,http://www.inaturalist.org/observation_fields/4526
-sub species,http://www.inaturalist.org/observation_fields/5582
-Observed Species Association: In conflict with,http://www.inaturalist.org/observation_fields/5584
-aff.,http://www.inaturalist.org/observation_fields/3594
-Especies de coral vivo con blanqueamiento,http://www.inaturalist.org/observation_fields/524
-What is the scientific name of the product?,http://www.inaturalist.org/observation_fields/5687
+Syntopic,https://www.inaturalist.org/observation_fields/1378
+Syntop,https://www.inaturalist.org/observation_fields/1340
+Target species,https://www.inaturalist.org/observation_fields/1185
+Iconic taxon name,https://www.inaturalist.org/observation_fields/1898
+Tree species,https://www.inaturalist.org/observation_fields/614
+"associated fern plant, pteridophyte",https://www.inaturalist.org/observation_fields/2400
+Order,https://www.inaturalist.org/observation_fields/1434
+Class,https://www.inaturalist.org/observation_fields/1433
+Phylum,https://www.inaturalist.org/observation_fields/1432
+Unidentified,https://www.inaturalist.org/observation_fields/2448
+Animal observed,https://www.inaturalist.org/observation_fields/2366
+Interaction: Defended territory from,https://www.inaturalist.org/observation_fields/3495
+Mobbing,https://www.inaturalist.org/observation_fields/3530
+MARIPOSAS,https://www.inaturalist.org/observation_fields/341
+Mariposas,https://www.inaturalist.org/observation_fields/631
+Observado junto a:,https://www.inaturalist.org/observation_fields/3679
+Additionally Related Taxa,https://www.inaturalist.org/observation_fields/3847
+Also Related Taxa,https://www.inaturalist.org/observation_fields/3846
+Community ecology,https://www.inaturalist.org/observation_fields/3884
+On Tree (Bird),https://www.inaturalist.org/observation_fields/3870
+Community ecology sp.2,https://www.inaturalist.org/observation_fields/3894
+chased by,https://www.inaturalist.org/observation_fields/3931
+chasing,https://www.inaturalist.org/observation_fields/3930
+Community ecology sp.3,https://www.inaturalist.org/observation_fields/3895
+Type of pollinator observed,https://www.inaturalist.org/observation_fields/2543
+Orquídea,https://www.inaturalist.org/observation_fields/3513
+Orchidaceae,https://www.inaturalist.org/observation_fields/3514
+Interaction: Competition with,https://www.inaturalist.org/observation_fields/4133
+Interaction: Hunting,https://www.inaturalist.org/observation_fields/4186
+Interaction: Damaged by,https://www.inaturalist.org/observation_fields/4144
+third associated species with names lookup,https://www.inaturalist.org/observation_fields/4309
+Community ecology sp.4,https://www.inaturalist.org/observation_fields/4258
+Community ecology sp.5,https://www.inaturalist.org/observation_fields/4259
+Especies afectadas,https://www.inaturalist.org/observation_fields/2056
+Abbas Karouni,https://www.inaturalist.org/observation_fields/4526
+sub species,https://www.inaturalist.org/observation_fields/5582
+Observed Species Association: In conflict with,https://www.inaturalist.org/observation_fields/5584
+aff.,https://www.inaturalist.org/observation_fields/3594
+Especies de coral vivo con blanqueamiento,https://www.inaturalist.org/observation_fields/524
+What is the scientific name of the product?,https://www.inaturalist.org/observation_fields/5687
