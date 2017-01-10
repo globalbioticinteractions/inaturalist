@@ -1,4 +1,5 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "inaturalist"
+  "format": "inaturalist",
+  "shouldResolveReferences": false
 }
