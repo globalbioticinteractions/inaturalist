@@ -118,3 +118,7 @@ Es planta anfitriona de,https://www.inaturalist.org/observation_fields/6230,eats
 Se encuentra sobre,https://www.inaturalist.org/observation_fields/6399,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Hermit Crab Shell,https://www.inaturalist.org/observation_fields/6523,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Epiphytic on,https://www.inaturalist.org/observation_fields/2793,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+With epiphyte,https://www.inaturalist.org/observation_fields/6477,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Observed Species association: Parasitized by,https://www.inaturalist.org/observation_fields/5956,has parasite,http://purl.obolibrary.org/obo/RO_0002445
+interaction->mutualism with,https://www.inaturalist.org/observation_fields/5206,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Preying on,https://www.inaturalist.org/observation_fields/7026,preys on,http://purl.obolibrary.org/obo/RO_0002439
