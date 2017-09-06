@@ -115,3 +115,6 @@ Flowers visited by,https://www.inaturalist.org/observation_fields/5530,flowers v
 Pollinator,https://www.inaturalist.org/observation_fields/5923,flowers visited by,http://purl.obolibrary.org/obo/RO_0002623
 Host plant,https://www.inaturalist.org/observation_fields/254,eats,http://purl.obolibrary.org/obo/RO_0002470
 Es planta anfitriona de,https://www.inaturalist.org/observation_fields/6230,eats,http://purl.obolibrary.org/obo/RO_0002470
+Se encuentra sobre,https://www.inaturalist.org/observation_fields/6399,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Hermit Crab Shell,https://www.inaturalist.org/observation_fields/6523,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Epiphytic on,https://www.inaturalist.org/observation_fields/2793,interacts with,http://purl.obolibrary.org/obo/RO_0002437
