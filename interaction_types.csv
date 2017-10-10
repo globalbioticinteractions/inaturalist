@@ -122,3 +122,5 @@ With epiphyte,https://www.inaturalist.org/observation_fields/6477,interacts with
 Observed Species association: Parasitized by,https://www.inaturalist.org/observation_fields/5956,has parasite,http://purl.obolibrary.org/obo/RO_0002445
 interaction->mutualism with,https://www.inaturalist.org/observation_fields/5206,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Preying on,https://www.inaturalist.org/observation_fields/7026,preys on,http://purl.obolibrary.org/obo/RO_0002439
+Observed Species Association: Scavenging,https://www.inaturalist.org/observation_fields/7205,eats,http://purl.obolibrary.org/obo/RO_0002470
+Plant used for nectar,https://www.inaturalist.org/observation_fields/7392,eats,http://purl.obolibrary.org/obo/RO_0002470
