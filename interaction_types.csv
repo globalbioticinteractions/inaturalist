@@ -124,3 +124,6 @@ interaction->mutualism with,https://www.inaturalist.org/observation_fields/5206,
 Preying on,https://www.inaturalist.org/observation_fields/7026,preys on,http://purl.obolibrary.org/obo/RO_0002439
 Observed Species Association: Scavenging,https://www.inaturalist.org/observation_fields/7205,eats,http://purl.obolibrary.org/obo/RO_0002470
 Plant used for nectar,https://www.inaturalist.org/observation_fields/7392,eats,http://purl.obolibrary.org/obo/RO_0002470
+Observed Species Association: Predated by,https://www.inaturalist.org/observation_fields/7478,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
+Interaction->Riding On,https://www.inaturalist.org/observation_fields/5029,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Plant that the organism was found on,https://www.inaturalist.org/observation_fields/7623,interacts with,http://purl.obolibrary.org/obo/RO_0002437
