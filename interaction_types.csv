@@ -127,3 +127,4 @@ Plant used for nectar,https://www.inaturalist.org/observation_fields/7392,eats,h
 Observed Species Association: Predated by,https://www.inaturalist.org/observation_fields/7478,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
 Interaction->Riding On,https://www.inaturalist.org/observation_fields/5029,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Plant that the organism was found on,https://www.inaturalist.org/observation_fields/7623,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Epibionts / Epiphytes / Parasites,https://www.inaturalist.org/observation_fields/8450,interacts with,http://purl.obolibrary.org/obo/RO_0002437
