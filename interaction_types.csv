@@ -132,3 +132,5 @@ Basibiont,https://www.inaturalist.org/observation_fields/8451,interacts with,htt
 Other Organism,https://www.inaturalist.org/observation_fields/8581,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Prey taxon,https://www.inaturalist.org/observation_fields/8586,preys on,http://purl.obolibrary.org/obo/RO_0002439
 食草,https://www.inaturalist.org/observation_fields/8567,eats,http://purl.obolibrary.org/obo/RO_0002470
+互動關係->被什麼生物訪花？,https://www.inaturalist.org/observation_fields/8547,flowers visited by,http://purl.obolibrary.org/obo/RO_0002623
+
