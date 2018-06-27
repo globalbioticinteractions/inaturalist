@@ -136,3 +136,6 @@ Prey taxon,https://www.inaturalist.org/observation_fields/8586,preys on,http://p
 互動關係->吃什麼植物的果實/種子,https://www.inaturalist.org/observation_fields/8644,eats,http://purl.obolibrary.org/obo/RO_0002470
 互動關係->正在吃什麼生物,https://www.inaturalist.org/observation_fields/8746,eats,http://purl.obolibrary.org/obo/RO_0002470
 Observed Species Association: Pollination 6,https://www.inaturalist.org/observation_fields/5105,pollinates,http://purl.obolibrary.org/obo/RO_0002455
+Observed Species Association: Pollination 5,https://www.inaturalist.org/observation_fields/5104,pollinates,http://purl.obolibrary.org/obo/RO_0002455
+Observed Species Association: Pollination 4,https://www.inaturalist.org/observation_fields/5103,pollinates,http://purl.obolibrary.org/obo/RO_0002455
+Observed Species Association: Pollination 3,https://www.inaturalist.org/observation_fields/5102,pollinates,http://purl.obolibrary.org/obo/RO_0002455
