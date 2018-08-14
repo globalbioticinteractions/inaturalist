@@ -141,3 +141,7 @@ Observed Species Association: Pollination 4,https://www.inaturalist.org/observat
 Observed Species Association: Pollination 3,https://www.inaturalist.org/observation_fields/5102,pollinates,http://purl.obolibrary.org/obo/RO_0002455
 Observed Species Association: Pollination 3,https://www.inaturalist.org/observation_fields/5102,pollinates,http://purl.obolibrary.org/obo/RO_0002455
 Name of Associated Plant,https://www.inaturalist.org/observation_fields/7807,flowers visited by,http://purl.obolibrary.org/obo/RO_0002623
+互動關係->什麼生物吃這植物的果實/種子？,https://www.inaturalist.org/observation_fields/8548,eats,http://purl.obolibrary.org/obo/RO_0002470
+互動關係->訪什麼生物的花,https://www.inaturalist.org/observation_fields/9098,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
+eats,https://www.inaturalist.org/observation_fields/5410,eats,http://purl.obolibrary.org/obo/RO_0002470
+Interaction->Decomposed by,https://www.inaturalist.org/observation_fields/3144,eaten by,http://purl.obolibrary.org/obo/RO_0002471
