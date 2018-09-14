@@ -145,3 +145,4 @@ Name of Associated Plant,https://www.inaturalist.org/observation_fields/7807,flo
 互動關係->訪什麼生物的花,https://www.inaturalist.org/observation_fields/9098,visits flowers of,http://purl.obolibrary.org/obo/RO_0002622
 eats,https://www.inaturalist.org/observation_fields/5410,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction->Decomposed by,https://www.inaturalist.org/observation_fields/3144,eaten by,http://purl.obolibrary.org/obo/RO_0002471
+Host plant/substrate/nearby tree ID,https://www.inaturalist.org/observation_fields/9249,has host,http://purl.obolibrary.org/obo/RO_0002454
