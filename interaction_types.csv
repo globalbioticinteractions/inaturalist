@@ -149,3 +149,4 @@ Host plant/substrate/nearby tree ID,https://www.inaturalist.org/observation_fiel
 Predator taxon,https://www.inaturalist.org/observation_fields/8587,preyed on by,http://purl.obolibrary.org/obo/RO_0002458
 Maggot Food Source,https://www.inaturalist.org/observation_fields/5241,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction->fungivore of,https://www.inaturalist.org/observation_fields/8409,eats,http://purl.obolibrary.org/obo/RO_0002470
+found in gut of,https://www.inaturalist.org/observation_fields/9674,eaten by,http://purl.obolibrary.org/obo/RO_0002471
