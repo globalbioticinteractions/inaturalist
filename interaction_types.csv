@@ -154,3 +154,4 @@ Interaction->fungivory by,https://www.inaturalist.org/observation_fields/8410,ea
 幼蟲寄主,https://www.inaturalist.org/observation_fields/8950,has host,http://purl.obolibrary.org/obo/RO_0002454
 Host Plant ID,https://www.inaturalist.org/observation_fields/6586,has host,http://purl.obolibrary.org/obo/RO_0002454
 Interaction->Seed dispersed by,https://www.inaturalist.org/observation_fields/3130,vector of,http://purl.obolibrary.org/obo/RO_0002459
+Associated Larder Species,https://www.inaturalist.org/observation_fields/10110,is killed by,http://purl.obolibrary.org/obo/RO_0002626
