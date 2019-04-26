@@ -156,4 +156,6 @@ Host Plant ID,https://www.inaturalist.org/observation_fields/6586,has host,http:
 Interaction->Seed dispersed by,https://www.inaturalist.org/observation_fields/3130,vector of,http://purl.obolibrary.org/obo/RO_0002459
 Associated Larder Species,https://www.inaturalist.org/observation_fields/10110,is killed by,http://purl.obolibrary.org/obo/RO_0002626
 Host plant you observed,https://www.inaturalist.org/observation_fields/10120,has host,http://purl.obolibrary.org/obo/RO_0002454
-
+Second Interaction Species,https://www.inaturalist.org/observation_fields/8458,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Observed Species Association: Symbiosis,https://www.inaturalist.org/observation_fields/6695,symbiont of,http://purl.obolibrary.org/obo/RO_0002440
+Molluscan Mycophagy Associated Species,https://www.inaturalist.org/observation_fields/10360,eats,http://purl.obolibrary.org/obo/RO_0002470
