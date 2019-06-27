@@ -3,10 +3,3 @@ install:
   - chmod +x check-dataset.sh
 
 script: ./check-dataset.sh ${TRAVIS_REPO_SLUG}
-
-notifications:
-  email:
-    recipients:
-      - jhpoelen@xs4all.nl
-      - eolspecies@gmail.com
-      - SchulzK@si.edu
