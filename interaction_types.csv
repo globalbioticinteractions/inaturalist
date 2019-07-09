@@ -159,3 +159,6 @@ Host plant you observed,https://www.inaturalist.org/observation_fields/10120,has
 Second Interaction Species,https://www.inaturalist.org/observation_fields/8458,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Observed Species Association: Symbiosis,https://www.inaturalist.org/observation_fields/6695,symbiont of,http://purl.obolibrary.org/obo/RO_0002440
 Molluscan Mycophagy Associated Species,https://www.inaturalist.org/observation_fields/10360,eats,http://purl.obolibrary.org/obo/RO_0002470
+Plant association,https://www.inaturalist.org/observation_fields/10524,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+laying egg on,https://www.inaturalist.org/observation_fields/10555,lays eggs on,http://purl.obolibrary.org/obo/RO_0008507
+Beaten from,https://www.inaturalist.org/observation_fields/10585,interacts with,http://purl.obolibrary.org/obo/RO_0002437
