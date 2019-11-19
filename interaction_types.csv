@@ -163,3 +163,5 @@ Plant association,https://www.inaturalist.org/observation_fields/10524,interacts
 laying egg on,https://www.inaturalist.org/observation_fields/10555,lays eggs on,http://purl.obolibrary.org/obo/RO_0008507
 Beaten from,https://www.inaturalist.org/observation_fields/10585,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 PLANTAS DEL HUERTO,https://www.inaturalist.org/observation_fields/4234,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Interacting Animal,https://www.inaturalist.org/observation_fields/10854,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Other Prey Species,https://www.inaturalist.org/observation_fields/3935,preys on,http://purl.obolibrary.org/obo/RO_0002439
