@@ -166,3 +166,10 @@ PLANTAS DEL HUERTO,https://www.inaturalist.org/observation_fields/4234,interacts
 Interacting Animal,https://www.inaturalist.org/observation_fields/10854,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Other Prey Species,https://www.inaturalist.org/observation_fields/3935,preys on,http://purl.obolibrary.org/obo/RO_0002439
 Is damaged by,https://www.inaturalist.org/observation_fields/11078,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Name of Associated Animal,https://www.inaturalist.org/observation_fields/11363,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+on Ulmus davidiana japonica,https://www.inaturalist.org/observation_fields/11243,https://www.inaturalist.org/observation_fields/5285,visits,http://purl.obolibrary.org/obo/RO_0002618
+on Portulaca oleracea,https://www.inaturalist.org/observation_fields/11250,https://www.inaturalist.org/observation_fields/5285,visits,http://purl.obolibrary.org/obo/RO_0002618
+on Quercus acutissima,https://www.inaturalist.org/observation_fields/11197,https://www.inaturalist.org/observation_fields/5285,visits,http://purl.obolibrary.org/obo/RO_0002618
+on Oenothera biennis,https://www.inaturalist.org/observation_fields/11207,https://www.inaturalist.org/observation_fields/5285,visits,http://purl.obolibrary.org/obo/RO_0002618
+,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Gall Species,https://www.inaturalist.org/observation_fields/9627,interacts with,http://purl.obolibrary.org/obo/RO_0002437
