@@ -80,8 +80,8 @@ Growing On Organism,https://www.inaturalist.org/observation_fields/3844,interact
 Ant attending,https://www.inaturalist.org/observation_fields/4850,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Food 2:,https://www.inaturalist.org/observation_fields/4995,eats,http://purl.obolibrary.org/obo/RO_0002470
 Food:,https://www.inaturalist.org/observation_fields/4952,eats,http://purl.obolibrary.org/obo/RO_0002470
-Observed Species Association:Pollination,https://www.inaturalist.org/observation_fields/4980,pollinates,http://purl.obolibrary.org/obo/RO_0002455
-Observed Species Association:Pollination 2,https://www.inaturalist.org/observation_fields/4981,pollinates,http://purl.obolibrary.org/obo/RO_0002455
+Observed Species Association:Pollination,https://www.inaturalist.org/observation_fields/4980,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+Observed Species Association:Pollination 2,https://www.inaturalist.org/observation_fields/4981,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Plant species observed,https://www.inaturalist.org/observation_fields/2544,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Observed Species Association: Cohabitation,https://www.inaturalist.org/observation_fields/4955,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Observed Species Association: Cohabitation 2,https://www.inaturalist.org/observation_fields/6027,interacts with,http://purl.obolibrary.org/obo/RO_0002437
