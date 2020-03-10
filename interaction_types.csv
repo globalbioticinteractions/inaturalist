@@ -32,7 +32,6 @@ Interaction: Ate seed of,https://www.inaturalist.org/observation_fields/3131,eat
 Interaction: Carcass scavenged by,https://www.inaturalist.org/observation_fields/3145,eaten by,http://purl.obolibrary.org/obo/RO_0002471
 Interaction: Decomposer of,https://www.inaturalist.org/observation_fields/3143,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Interaction: Egg(s) laid on/in,https://www.inaturalist.org/observation_fields/3314,interacts with,http://purl.obolibrary.org/obo/RO_0002437
-Interaction: egg(s) laid on/in,https://www.inaturalist.org/observation_fields/3314,parasite of,http://purl.obolibrary.org/obo/RO_0002444
 Interaction: Flower visited by,https://www.inaturalist.org/observation_fields/3125,flowers visited by,http://purl.obolibrary.org/obo/RO_0002623
 Interaction: Fruit eaten by,https://www.inaturalist.org/observation_fields/3127,eaten by,http://purl.obolibrary.org/obo/RO_0002471
 Interaction: Herbivore of,https://www.inaturalist.org/observation_fields/3136,eats,http://purl.obolibrary.org/obo/RO_0002470
