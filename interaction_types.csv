@@ -16,7 +16,7 @@ Food Source,https://www.inaturalist.org/observation_fields/2294,eats,http://purl
 Forms gall on,https://www.inaturalist.org/observation_fields/877,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Gall Inducer,https://www.inaturalist.org/observation_fields/682,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 honey bee food plant,https://www.inaturalist.org/observation_fields/1965,has host,http://purl.obolibrary.org/obo/RO_0002454
-Hospedero,https://www.inaturalist.org/observation_fields/834,has parasite,http://purl.obolibrary.org/obo/RO_0002445
+Hospedero,https://www.inaturalist.org/observation_fields/834,parasite of,http://purl.obolibrary.org/obo/RO_0002444
 Host animal,https://www.inaturalist.org/observation_fields/1717,has host,http://purl.obolibrary.org/obo/RO_0002454
 Host plant NZ,https://www.inaturalist.org/observation_fields/1712,has host,http://purl.obolibrary.org/obo/RO_0002454
 host species with names lookup,https://www.inaturalist.org/observation_fields/2028,has host,http://purl.obolibrary.org/obo/RO_0002454
