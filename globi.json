@@ -2,5 +2,6 @@
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "inaturalist",
   "citation": "http://iNaturalist.org is a place where you can record what you see in nature, meet other nature lovers, and learn about the natural world.",
-  "shouldResolveReferences": false
+  "shouldResolveReferences": false,
+  "pageSize": 50
 }
