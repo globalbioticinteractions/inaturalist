@@ -35,7 +35,7 @@ Interaction: Flower visited by,https://www.inaturalist.org/observation_fields/31
 Interaction: Fruit eaten by,https://www.inaturalist.org/observation_fields/3127,eaten by,http://purl.obolibrary.org/obo/RO_0002471
 Interaction: Herbivore of,https://www.inaturalist.org/observation_fields/3136,eats,http://purl.obolibrary.org/obo/RO_0002470
 Interaction: Herbivory by,https://www.inaturalist.org/observation_fields/3135,eaten by,http://purl.obolibrary.org/obo/RO_0002471
-Interaction: Infected by,https://www.inaturalist.org/observation_fields/3139,pathogen of,http://purl.obolibrary.org/obo/RO_0002556
+Interaction: Infected by,https://www.inaturalist.org/observation_fields/3139,has pathogen,http://purl.obolibrary.org/obo/RO_0002557
 Interaction: Nested in,https://www.inaturalist.org/observation_fields/3141,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Interaction: Parasite/parasitoid of,https://www.inaturalist.org/observation_fields/3137,parasite of,http://purl.obolibrary.org/obo/RO_0002444
 Interaction: Parasitised by,https://www.inaturalist.org/observation_fields/3138,has parasite,http://purl.obolibrary.org/obo/RO_0002445
