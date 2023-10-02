@@ -1,4 +1,4 @@
-observation_field_name,observation_field_id,interaction_type_label,interaction_type_id
+provided_interaction_type_label,provided_interaction_type_id,mapped_to_interaction_type_label,mapped_to_interaction_type_id
 2nd associated organism with names lookup,https://www.inaturalist.org/observation_fields/2019,interacts with,http://purl.obolibrary.org/obo/RO_0002437
 Associated parasitic / pathogenic organism with names lookup,https://www.inaturalist.org/observation_fields/2049,has parasite,http://purl.obolibrary.org/obo/RO_0002445
 associated species alien to NZ,https://www.inaturalist.org/observation_fields/2345,interacts with,http://purl.obolibrary.org/obo/RO_0002437
