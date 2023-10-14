@@ -16,17 +16,18 @@
         <item>
             <!-- this is the main dataset to be indexed -->
             <title>http://iNaturalist.org is a place where you can record what you see in nature, meet other nature lovers, and learn about the natural world.</title>
-            <link>http://ipt.vertnet.org:8080/ipt/resourc</link>
+            <author>>pleary@inaturalist.org (Patrick Leary)</author>
+            <link>https://www.inaturalist.org/observations/globi-observations-resource-relationships-dwca.zip</link>
             <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
-            <author>pleary@inaturalist (Patrick Leary)</author>
             <ipt:dwca>https://www.inaturalist.org/observations/globi-observations-resource-relationships-dwca.zip</ipt:dwca>
         </item>
         <item>
             <!-- this is a dependency of the main dataset -->
             <title>iNaturalist Taxa</title>
-            <author>pleary@inaturalist (Patrick Leary)</author>
+            <author>pleary@inaturalist.org (Patrick Leary)</author>
+            <link>https://www.inaturalist.org/taxa/inaturalist-taxonomy.dwca.zip</link>
             <ipt:dwca>https://www.inaturalist.org/taxa/inaturalist-taxonomy.dwca.zip</ipt:dwca>
-            <pubDate>Mon, 17 Feb 2020 17:39:49 +0000</pubDate>
+            <pubDate>Oct, 14 Feb 2023 17:39:49 +0000</pubDate>
             <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
             <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
